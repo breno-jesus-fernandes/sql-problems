@@ -1,2 +1,2 @@
 # sql-problems
-Solved SQL Problems 
+SQL problems solved 
