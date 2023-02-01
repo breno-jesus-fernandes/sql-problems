@@ -1,4 +1,4 @@
-# Transform categories in array in table rows
+# Transform categories from array in table rows
 yelp_business['category'] = yelp_business['categories'].str.split(';')
 yelp_business = yelp_business.explode('category')
 
